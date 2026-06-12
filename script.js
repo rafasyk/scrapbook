@@ -6,14 +6,14 @@ const dots = document.querySelector("#dots");
 
 const labels = [
   "Capa",
-  "Introdução",
-  "Nós",
   "",
   "",
   "",
   "",
   "",
-  ""
+  "",
+  "",
+  "Fim"
 ];
 
 let currentSpread = 0;
