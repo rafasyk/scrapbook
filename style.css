@@ -328,7 +328,7 @@ h2 {
 .heart.red { color: #d7193f; right: 48px; top: 46px; }
 .heart.pink { color: #f070a3; right: 34px; top: 28px; }
 .star { font-size: 2.1rem; color: #fff4a6; }
-.star.gold { color: rgb(250, 103, 255); left: 4%; bottom: 105px; }
+.star.gold { color: rgb(250, 103, 255); left: 34%; bottom: 105px; }
 .star.white { color: #ba2; right: 28%; top: 20%; }
 
 .tape {
@@ -462,19 +462,6 @@ h2 {
     repeating-linear-gradient(#fffdf7 0 29px, #f1c3ce 30px 31px),
     #fffdf7;
   line-height: 31px;
-}
-
-.flower-line {
-  position: absolute;
-  left: 24px;
-  right: 24px;
-  bottom: 20px;
-  height: 34px;
-  opacity: 0.66;
-  background-image: radial-gradient(circle at 10px 12px, #ef8baa 0 5px, transparent 6px), radial-gradient(circle at 18px 16px, #ef8baa 0 5px, transparent 6px), radial-gradient(circle at 14px 22px, #ef8baa 0 5px, transparent 6px), linear-gradient(90deg, transparent, #768f62, transparent);
-  background-size: 80px 34px, 80px 34px, 80px 34px, 100% 2px;
-  background-repeat: repeat-x, repeat-x, repeat-x, no-repeat;
-  background-position: 0 0, 0 0, 0 0, 0 18px;
 }
 
 .photo-grid {
